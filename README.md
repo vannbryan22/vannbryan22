@@ -51,7 +51,6 @@ Whether it's optimizing slow APIs by 40%+ or streamlining deployments via automa
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vannbryan22&show_icons=true&theme=radical" alt="Vann Bryan's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannbryan22&layout=compact&theme=radical" alt="Top Languages" />
-  ![vannbryan22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vannbryan22&theme=vue-dark&hide_border=true)
 </div>
 
 > *Stats update automatically based on your activity.*
