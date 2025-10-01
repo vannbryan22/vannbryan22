@@ -51,6 +51,7 @@ Whether it's optimizing slow APIs by 40%+ or streamlining deployments via automa
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vannbryan22&show_icons=true&theme=radical" alt="Vann Bryan's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannbryan22&layout=compact&theme=radical" alt="Top Languages" />
+  [![Vann's GitHub stats](https://github-readme-stats.vercel.app/api?username=vannbryan22)](https://github.com/vannbryan22/github-readme-stats)
 </div>
 
 > *Stats update automatically based on your activity.*
